@@ -10,7 +10,7 @@
 Algumas das tecnologias com as quais trabalho e estudo:  
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)
-![Spring] (https://img.shields.io/badge/spring-%236DB33F.svg?&style=flat-square&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?&style=flat-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?&style=flat-square&logo=angular&logoColor=white)
